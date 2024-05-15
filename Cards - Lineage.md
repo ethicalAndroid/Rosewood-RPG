@@ -44,5 +44,5 @@ When you pick a bundle, you get both cards.
 	On a 7-9, you heal 5 HP and lose 1 Constitution.
 	On a 10+, you heal 7 HP.
 ### Cross-Breed
-Pick two class bundles at random.
+Pick two lineage bundles at random.
 Take the first card from one, and the second card from the other.
