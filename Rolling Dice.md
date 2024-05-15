@@ -3,7 +3,7 @@
 **Ongoing**
 	Ongoing is an effect that gives a bonus or negative to a situation.
 	Only when someone is in that situation, can they receive the bonus.
-**Foward**
+**Forward**
 	Forward is an effect that gives a bonus or negative to a character's next action.
 	It can also be a specific next action, like rolling with Strength.
 **Stacking Ongoing and Forward**

@@ -7,17 +7,20 @@ For instance:
 
 Each character gets 
 - all Basic Cards
-- 1 Class Bundle
+- 1 Lineage Bundle
 - and the cards in their Class Bundle depending on their level.
 
 Characters can collect cards along their adventures, in the form of experiences, items, and skills.
 At the end of each session, each character decides on what experience, item, or skill they want to be made into a card.
-The DM will then give them that card before the next game starts.
+The game master will then give them that card before the next game starts.
 ## Stats
 Characters' base abilities are based on Stats.
 Each character has a base of 0 on all stats except for HP and Level.
 Everyone's HP is at a base of 15.
 Everyone's Level starts at 1.
+
+When a character takes a day to rest, their HP returns to normal.
+Specifically, it goes to Base (15) + Each HP Attribute Bonus.
 ## Leveling Up
 Characters have an EXP stat that they can use to level up.
 Characters have different ways on gaining EXP, but all of them have these basic ways:

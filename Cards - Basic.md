@@ -1,6 +1,6 @@
 These are basic move cards that every character gets.
 **M : Walk**
-	1 AP, Move 6 Meters.
+	1 AP, Move up to 6 Meters.
 	You can jump up to 2 Meters horizontally, and 1 Meter vertically while moving.
 **M : Step**
 	1 AP, Step 1 Meter.
@@ -21,8 +21,8 @@ These are basic move cards that every character gets.
 	When you use your constitution to try to withstand injury, sickness, or poison:
 	1 AP, Roll+**Constitution** ->
 	On a fail, your constitution fails you, and your condition worsens by 1.
-	On a 7-9, you withstand the condition for a moment. The condition does not affect you for 5 minutes, but afterwards it worsens by 1.
-	On a 10+, you stabilize the condition enough to act. The condition does not affect you for 5 minutes.
+	On a 7-9, you withstand the condition for a moment. For 5 minutes, the condition does not affect you, but afterwards it worsens by 1.
+	On a 10+, you stabilize the condition enough to act. For 5 minutes, the condition does not affect you.
 **M : Use Intelligence**
 	When you use your intelligence to try to recall or apply your past knowledge:
 	1 AP, Roll+**Intelligence** ->

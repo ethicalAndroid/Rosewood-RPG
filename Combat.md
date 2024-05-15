@@ -31,9 +31,8 @@ That team wins the Battle.
 	When a Battler can no longer fight.
 ## Damage and HP
 In a Battle, each Battler has HP (hit-points).
-This is how much damage they can take before they are Defeated.
-HP can be seen as "endurance", "exhaustion", "blood", "connection", or "morale".
-It all depends on the character.
+This is how much damage they can take before they are defeated.
+HP can be seen as "endurance", "exhaustion", "blood", "connection", or "morale". It all depends on the character.
 ## Turn
 When a Battler takes their turn, they gain 3 AP to spend on moves.
 After they run out of AP, or whenever they decide, they can end their turn.
