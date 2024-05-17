@@ -10,7 +10,7 @@
 	Your troops will Flee from battle if you have 0 Morale.
 	After your Troops take a day to rest, you set your Morale to your base amount.
 	-
-	Whenever you win a battle with half or more of your Max Morale, gain 1 EXP.
+	Whenever you win a battle with half or more of your base amount of Morale, gain 1 EXP.
 **M : Beat Up**
 	You can command your Troops to beat someone up.
 	2 AP, Range 6 Meters, Roll+**Charisma** ->
