@@ -4,9 +4,10 @@ At each level, you can take different cards from the bundle, according to the cl
 ## Class Summaries
 Here are the existing classes and their summaries.
 ### Warrior
-*Brave warriors fight with weapons. They have fighting spirit and strong fundamentals. They will master martial combat and the dynamic nature of battle.*
+*Brave warriors fight with weapons. They have fighting spirit and strong fundamentals. Warriors will master martial combat and the dynamic nature of battle.*
 [[Warrior Bundle]]
 ### Mage
-*Brilliant mages fight with magic spells. They have an expendable well of power to bend to their will. They will master both mana and aura to fill their well of magic.*
+*Brilliant mages fight with magic spells. They have an expendable well of power to bend to their will. Mages will master both mana and aura to fill their well of magic.*
 [[Mage Bundle]]
+
 

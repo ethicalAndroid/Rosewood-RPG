@@ -49,7 +49,7 @@
 	On a fail, you gain 2 Mana and freeze twice in a 5 Meter Range.
 	On a 7-9, you gain 2 Mana and freeze in a 3 Meter Range.
 	On a 10+, you gain 3 Mana and freeze in a 2 Meter Range.
-	- When you freeze, Give 1 Frozen Dice to everyone in range *including yourself.*
+	- When you freeze, Give 1 Frozen Die to everyone in range *including yourself.*
 	- Frozen Dice: when you roll a normal die and you have Frozen Dice, you roll a 2 instead and remove 1 Frozen Die.
 **M : Spark Well**
 	You have an electrifying aura!
@@ -58,7 +58,7 @@
 	On a fail, you gain 2 Mana and zap twice in a 5 Meter Range.
 	On a 7-9, you gain 2 Mana and zap in a 3 Meter Range.
 	On a 10+, you gain 3 Mana and zap in a 2 Meter Range.
-	- When you zap, Give 1 Shocking Dice to everyone in range *including yourself*.
+	- When you zap, Give 1 Shocking Die to everyone in range *including yourself*.
 	- Shocking Dice: when you roll a normal die and you have Shocking Dice, you must roll 1 Shocking Die. You lose that much HP, add that much to your original roll, and remove 1 Shocking Die. 
 **M : Haste Spell**
 	You can make your allies fast like the wind.
