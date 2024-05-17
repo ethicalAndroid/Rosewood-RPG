@@ -1,3 +1,4 @@
+*Brave warriors fight with weapons. They have fighting spirit and strong fundamentals. Warriors will master martial combat and the dynamic nature of battle.*
 
 | Level | Take these Cards                                                    |
 | ----- | ------------------------------------------------------------------- |

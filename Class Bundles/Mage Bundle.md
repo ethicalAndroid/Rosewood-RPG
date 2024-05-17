@@ -1,3 +1,4 @@
+*Brilliant mages fight with magic spells. They have an expendable well of power to bend to their will. Mages will master both mana and aura to fill their well of magic.*
 
 | Level | Take these Cards                                                    |
 | ----- | ------------------------------------------------------------------- |
