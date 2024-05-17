@@ -5,7 +5,7 @@ When you pick a bundle, you get both cards.
 **A : Human Ingenuity**
 	+1 Dexterity, +1 Intelligence, +1 Charisma
 **A : Fail Forward**
-	When you fail a roll, gain 1 EXP.
+	When you fail a roll, gain a half of 1 EXP.
 ### Elf
 **A : Elven Expertise**
 	+1 Dexterity, +1 Intelligence, +1 Mana
