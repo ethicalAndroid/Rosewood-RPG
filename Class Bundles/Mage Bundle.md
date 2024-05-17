@@ -11,7 +11,7 @@
 **A : Well of Power**
 	+1 Intelligence, +2 Mana
 	"Spending" Mana is only Temporary.
-	You regain all spent Mana after you take a day to rest.
+	You set your Mana to your base amount after you take a day to rest.
 	Whenever you win a battle where you started with 0 Mana, gain 1 EXP.
 **M : Fire Bolt**
 	You can launch a bolt of flame.

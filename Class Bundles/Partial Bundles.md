@@ -58,3 +58,54 @@
 	On a fail, you fail to shape the aura. Gain +1 Mistake.
 	On a 7-9, you balance the aura, Heal 5 HP.
 	On a 10+, you balance the aura and bolster it, Heal 7 HP.
+## Leader
+*Bold leaders command their team into battle. They use tactics and teamwork to fight. Leaders will master commanding their individual troops to the best of their abilities.*
+
+| Level | Take these Cards                                               |
+| ----- | -------------------------------------------------------------- |
+| 1     | Leader's Presence, Beat Up, (Goblins or Mechs or Featherheads) |
+**A : Leader's Presence**
+	+1 Charisma, +12 Morale
+	You command a small team of Troops.
+	When your Troops take damage, you lose Morale instead.
+	Your troops will Flee from battle if you have 0 Morale.
+	After your Troops take a day to rest, you set your Morale to your base amount.
+	-
+	Whenever you win a battle with half or more of your Max Morale, gain 1 EXP.
+**M : Beat Up**
+	You can command your Troops to beat someone up.
+	2 AP, Range 6 Meters, Roll+**Charisma** ->
+	On a fail, your attack is faulty or ineffective, lose 1 Morale.
+	On a 7-9, your attack hits, Deal 5 damage.
+	On a 10+, your attack hits hard, Deal 6 damage, gain 2 Morale.
+**A : Goblins**
+	Your Troops are a team of small Goblins.
+	Your Troop attacks deal Piercing damage.
+	-2 Morale, +1 Charisma
+**A : Mechs**
+	Your Troops are a team of automated Mechs.
+	Your Troop attacks deal Bludgeoning damage.
+	+3 Morale
+**A : Featherheads**
+	Your Troops are a team of flying Featherheads.
+	Your Troop attacks deal Slashing damage, their Range increases by 2 Meters, and they can target flying and raised enemies.
+## Gambler
+*Tricky gamblers win big to fabricate advantages. They use magic bets to increase their power to massive levels. Gamblers will master both good and bad luck.*
+
+| Level | Take these Cards                 |
+| ----- | -------------------------------- |
+| 1     | Gambler's Luck, Lucky Bet, Sword |
+**A : Gambler's Luck**
+	+1 Intelligence, +1 Luck?
+	Whenever you roll 6 and 6 on a roll, gain 1 EXP.
+**M : Lucky Bet**
+	You can bet your stats on a coin flip.
+	1 AP, Name a Stat and a number X from 1 to 3, Flip a Coin ->
+	On a heads, you temporarily gain +X of that Stat for 5 minutes.
+	On a tails, you temporarily lose -X of that Stat for 5 minutes.
+**M : Sword**
+	You can attack with sturdy swords.
+	2 AP, Range 1 Meter, Roll+**Strength** ->
+	On a fail, you miss, but you can choose to gain +1 AP if you give your target +1 AP.
+	On a 7-9, Deal 5 Slashing.
+	On a 10+, Deal 6 Slashing.
