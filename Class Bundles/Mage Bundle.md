@@ -91,7 +91,7 @@
 	*You can choose to activate this after you roll.*
 **M : Mana Fountain**
 	You can expend all of your mana into a devastating wave.
-	*Requirement: You must have full Mana or more.*
+	*Requirement: You must have base Mana or more.*
 	3 AP, Spend All of your Mana, Roll+**Intelligence** ->
 	On a fail, your mana burns you on the way out, Hold 2 and lose 5 HP.
 	On a 7-9, your mana flows through the air, Hold 2.
