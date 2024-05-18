@@ -44,7 +44,7 @@
 	On a fail, your target slips away, they take +1 Forward to attacking you.
 	On a 7-9, you launch the target up to 7 Meters away, Deal 6 Bludgeoning.
 	On a 10+, you launch the target up to 10 Meters away, Deal 8 Bludgeoning, they take -1 Forward.
-**M : Break Through**
+**A : Break Through**
 	You can deflect and ignore attacks by using your momentum.
 	When you are damaged, you can spend 1 Momentum to reduce the damage by 3.
 **A : Motion Mastery**
@@ -64,6 +64,7 @@
 **A : Rubber Hits**
 	You can bounce your attacks with your aura to use your momentum in new ways.
 	+3 Aura
+	You set your Aura to your base amount after you take a day to rest.
 	Whenever you deal damage with an attack, you can spend 1 Aura reduce your next move cost by 1 AP, but only if that move is a different move than this attack.
 **M : Earthquake Blow**
 	You can swing all of your momentum into one devastating attack.
@@ -73,9 +74,10 @@
 	On a 7-9, your momentum attack connects, Deal 10 damage.
 	On a 10+ your momentum transfers directly to the target, Deal 3 damage per Momentum.
 	- After you use this move, spend all of your Momentum.
+	*The damage type is the same as Great Weapon's damage type.*
 **M : Whirlwind Dash**
 	You can fly into a mad dash once you reach your peak momentum.
-	*Requirement: you have not used Whirlwind Dash in this battle.*
+	*Requirement: You have not used Whirlwind Dash in this battle.*
 	3 AP, Roll+**Momentum** ->
 	On a fail, you fall on your face, End your Turn.
 	On a 7-9, your momentum transfers into your speed, gain (2 + Momentum) AP and spend all of your Momentum.
