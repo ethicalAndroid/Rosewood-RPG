@@ -1,4 +1,4 @@
-*Gibbons are ape people. They have fur and hands for feet. They are more hunched over than average.*
+*Gibbons are ape people. They are covered in fur and have hands for feet. They are more hunched over than average.*
 
 **A : Gibbon Greatness**
 	+1 Strength, +1 Dexterity, +1 Constitution
