@@ -12,7 +12,7 @@
 **A : Berserker's Center**
 	+1 Strength, +1 Constitution
 	When you start a battle, set your Momentum to 0.
-	Whenever you win a battle where the enemy team was stronger than your team, gain 1 EXP.
+	Whenever you win a battle where the enemy team a higher HP total than your team, gain 1 EXP.
 **M : Heavy Dash**
 	You can dash to increase the momentum of your weapon.
 	1 AP, Move up to 4 Meters, gain 1 Momentum.
