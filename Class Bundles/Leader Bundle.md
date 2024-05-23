@@ -1,8 +1,14 @@
 *Bold leaders command their team into battle. They use tactics and teamwork to fight. Leaders will master commanding their individual troops to the best of their abilities.*
 
-| Level | Take these Cards                                               |
-| ----- | -------------------------------------------------------------- |
-| 1     | Leader's Presence, Beat Up, (Goblins or Mechs or Featherheads) |
+| Level | Take these Cards                                                    |
+| ----- | ------------------------------------------------------------------- |
+| 1     | Leader's Presence, Beat Up, (Goblins or Mechs or Featherheads)      |
+| 2     | Bolster, (Sword Elite or Shield Elite or Arrow Elite)               |
+| 3     | Rallying Banner or Selfless Sword                                   |
+| 4     | *Take 1 Card from another class's bundle from the 1-3 level range.* |
+| 5     | Organizational Mastery                                              |
+| 6     | Commander or Empath or Task Oriented                                |
+| 7     | Last Stand or Team Combo                                            |
 **A : Leader's Presence**
 	+1 Charisma, +12 Morale
 	You command a small team of Troops.
